@@ -1,8 +1,8 @@
 INSERT INTO Produk (nama, deskripsi, harga, kategori)
 VALUES
-('Laptop', 'Laptop gaming dengan spesifikasi tinggi', 15000000.00, 'Elektronik'),
-('Kursi', 'Kursi ergonomis untuk kantor', 1200000.00, 'Furniture'),
-('Meja', 'Meja kayu solid untuk ruang kerja', 3000000.00, 'Furniture');
+('Kaos Oversize', 'Bahan adem dan tidak mudah kusut', 105000000.00, 'Baju'),
+('Kemeja', 'Bahan adem dan tidak mudah kusut', 150000.00, 'Baju'),
+('Polo Tshirt', 'Bahan adem dan tidak mudah kusut', 80000000.00, 'Baju');
 
 
 INSERT INTO Inventaris (id_produk, jumlah, lokasi)
