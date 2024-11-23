@@ -37,6 +37,8 @@ func downloadImage(c *gin.Context) {
 		return
 	}
 
+	// fhnf
+
 	c.File(filePath)
 }
 
